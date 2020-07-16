@@ -1,0 +1,5 @@
+spark_scratch.ipynb
+.DS_Store
+.ipynb_checkpoints/*
+spark-3.0.0-bin-hadoop2.7*
+21.csv
